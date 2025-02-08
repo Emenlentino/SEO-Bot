@@ -1,0 +1,8 @@
+requests
+pandas
+rich
+schedule
+sqlite3
+smtplib
+twilio
+python-telegram-bot
